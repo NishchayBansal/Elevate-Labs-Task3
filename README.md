@@ -9,6 +9,7 @@
 **Deliverables:** Vulnerability scan report with identified issues.
 
 **1. Install OpenVAS or Nessus Essentials or Windows Security (Virus and Threat Protection)**
+
 **2. Set up scan target as your local machine IP or localhost.**
 
 Here using WINDOWS BUILT-IN “Virus & Threat Protection” .
